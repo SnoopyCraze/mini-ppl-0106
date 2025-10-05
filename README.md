@@ -248,7 +248,7 @@ MIT
 If you use this code for educational purposes, please cite:
 
 ```bibtex
-@software{minippl2024,
+@software{mini-ppl-0106-2025,
   title={mini-ppl-0106: A Minimal Probabilistic Programming Language},
   author={Zeran Johannsen},
   year={2025},
